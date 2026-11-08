@@ -1,5 +1,13 @@
 # Configuraciones
 
+![image URL](https://github.com/araujoerik/Dotfiles/blob/main/Screenshots/Desktop.png?raw=true)
+
+![image URL](https://github.com/araujoerik/Dotfiles/blob/main/Screenshots/Menu.png?raw=true)
+
+![image URL](https://github.com/araujoerik/Dotfiles/blob/main/Screenshots/Cube%20Desktop.png?raw=true)
+
+![image URL](https://github.com/araujoerik/Dotfiles/blob/main/Screenshots/AppGrid.png?raw=true)
+
 ## INSTRUCCIONES
 
 - Clonamos la carpeta una vez instalamos los programas requeridos
@@ -50,11 +58,29 @@ Fedora/Red Hat:
 sudo dnf install fish
 ```
 
+- Instalamos Neovim como editor
+
+Ubuntu/Debian:
+
+```
+sudo apt install neovim
+```
+
+Fedora/Red Hat:
+
+```
+sudo dnf install neovim
+```
+
+![image URL](https://github.com/araujoerik/Dotfiles/blob/main/Screenshots/Neovim.png?raw=true)
+
 - Generar un archivo de configuracion para Fastfetch
 
 ```
 fastfetch --gen--config
 ```
+
+![image URL](https://github.com/araujoerik/Dotfiles/blob/main/Screenshots/Fastfetch.png?raw=true)
 
 - Para la personalización del entorno se utilizan extensiones de Gnome:
 
