@@ -58,11 +58,11 @@ fastfetch --gen--config
 
 - Para la personalización del entorno se utilizan extensiones de Gnome:
 
-<https://github.com/aunetx/blur-my-shell>
-<https://github.com/hermes83/compiz-alike-magic-lamp-effect>
-<https://github.com/boerdereinar/copyous>
-<https://github.com/fthx/dash-in-panel>
-<https://github.com/Schneegans/Desktop-Cube>
-<https://github.com/Aryan20/Logomenu>
+- <https://github.com/aunetx/blur-my-shell>
+- <https://github.com/hermes83/compiz-alike-magic-lamp-effect>
+- <https://github.com/boerdereinar/copyous>
+- <https://github.com/fthx/dash-in-panel>
+- <https://github.com/Schneegans/Desktop-Cube>
+- <https://github.com/Aryan20/Logomenu>
 
 - Usertheme para aplicar los temas con Gnome-Extensions
