@@ -1,13 +1,10 @@
 local opt = vim.opt
 
-opt.termguicolors = true
-opt.cursorline = true
 opt.number = true
+opt.cursorline = true
 opt.relativenumber = true
-opt.signcolumn = "yes"
-opt.splitbelow = true
-opt.splitright = true
+opt.shiftwidth = 4
 opt.wrap = false
+opt.termguicolors = true
 opt.smoothscroll = true
-opt.laststatus = 3
-opt.showmode = false
+opt.signcolumn = "yes"
